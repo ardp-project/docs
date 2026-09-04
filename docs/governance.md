@@ -48,6 +48,7 @@ Anyone can contribute. Contribution is open to all, through issues and pull requ
 | Hugging Face | Shaun Smith |
 | Microsoft | Dhruv Chand |
 | Amazon | Jeffrey Damick |
+| Cisco | Luca Muscariello | 
 
 **Maintainers**
 
